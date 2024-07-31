@@ -1,4 +1,5 @@
 #include <iostream>
+#include <ostream>
 
 int main(){
     //tabuada com while
